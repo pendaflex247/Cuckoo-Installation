@@ -15,8 +15,8 @@ Prerequisite for ubuntu 18.04
 
 #Update apt cache and upgrade packages
 
-sudo apt update
-sudo apt upgrade
+  sudo apt update
+  sudo apt upgrade
 
 #Install Cuckoo Dependencies
 
