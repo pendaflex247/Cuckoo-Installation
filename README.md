@@ -2,13 +2,6 @@
 This is an introductory chapter to Cuckoo Sandbox. It explains some basic malware analysis concepts, what’s Cuckoo and how it can fit in malware analysis.
 
 
-Resources
--
-
-#Python installation
-
-https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/
-
 
 Prerequisite for ubuntu 18.04
 -
@@ -340,3 +333,15 @@ https://www.youtube.com/watch?v=-APw5Y9ow6s
 #if you just want to extend the 8G or less use this command and adjust accordingly 
 
     sudo lvextend -L +2G /dev/mapper/ubuntu--vg-ubuntu--lv
+
+
+Resources
+-
+
+    #Python installation
+
+    https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/
+
+    #Docker install
+
+    https://github.com/blacktop/docker-cuckoo
