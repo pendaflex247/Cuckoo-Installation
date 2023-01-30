@@ -1,8 +1,6 @@
 # Cuckoo-Installation
 This is an introductory chapter to Cuckoo Sandbox. It explains some basic malware analysis concepts, what’s Cuckoo and how it can fit in malware analysis.
 
-
-
 Prerequisite for ubuntu 18.04
 -
 
@@ -264,7 +262,7 @@ Insternet Access
 
     nano virtualbox.conf
 
-#Remove everthing under [cuckoo1] it nolonger exist
+#Remove everthing under cuckoo1 it nolonger exist
 
     [cuckoo1]
 
